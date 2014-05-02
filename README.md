@@ -4,3 +4,5 @@ some examples of graphics in base r and ggplot2
 * open .html
 * ???
 * send $$$
+
+<a href = "https://github.com/raredd/rgraphics/blob/master/basegrid.md">combining base and grid (ggplot, lattice) graphics</a>
