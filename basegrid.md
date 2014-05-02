@@ -22,7 +22,7 @@ print(p, vp = vp)
 par(op)
 ```
 
-![option1](https://github.com/raredd/rgraphics/blob/master/figure/option1.png)
+![option1](https://raw.githubusercontent.com/raredd/rgraphics/master/figure/option1.png)
 
 ```
 ## option 2
@@ -46,4 +46,4 @@ print(p, vp = vp)
 par(op)
 ```
 
-![option2](https://github.com/raredd/rgraphics/blob/master/figure/option2.png)
+![option2](https://raw.githubusercontent.com/raredd/rgraphics/master/figure/option2.png)
